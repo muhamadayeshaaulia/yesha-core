@@ -1,0 +1,14 @@
+{
+    "name": "muhamadayeshaaulia/yesha-framework",
+    "description": "Inti dari Yesha Framework",
+    "type": "Library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Inti\\": "Inti/"
+        }
+    },
+    "require": {
+        "php" : "^8.8"
+    }
+}
